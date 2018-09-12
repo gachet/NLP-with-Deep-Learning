@@ -6,3 +6,5 @@ Experimenting with Natural Language Processing using Deep Learning techniques. T
 1. Working with Word Vectors
     - [Pre-trained word vector from GloVe](Word%20Vectors/Pretrained%20GloVe.ipynb)
     - [Pre-trained word vector from Word2Vec](Word%20Vectors/Pretrained%20Word2Vec.ipynb)
+
+TODO: more experiments
